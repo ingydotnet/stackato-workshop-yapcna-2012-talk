@@ -1,0 +1,48 @@
+---- config
+# Vroom.pm slide deck
+title: Stackato Workshop
+indent: 5
+auto_size: 1
+skip: 0
+
+---- center
+Stackato Workshop
+
+Jan Dubois & Ingy döt Net
+
+YAPC::NA 2012
+Madison, WI
+
+Friday June 15th, 2012
+
+----
+== Overview
+
+* Hour 1 - Using Stackato
+  * Intro to Stackato
+  * Stackato Demo
+    * Console / App Store
+    * Client Usage / Pair Env
+  * Setup acounts on YAPC-Cluster
+    * /msg or email your info to Jan
+  * Install client software
+  * Install microclouds on laptops
+
+* Hour 2 - Hacking for Stackato
+  * Anatomy of a Stackato App
+  * Jan's pro-tips
+  * Ingy's pair-tips
+  * How the app store works
+  * Group excercise
+    * Possibly use a PairUp env
+    * Take a known Perl app repo
+    * Get it working on Stackato
+    * Put it in the app store of the YAPC-Cluster
+
+----
+== Introducing Stackato!
+
+
+
+----
+== The End
